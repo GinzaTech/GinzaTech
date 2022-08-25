@@ -40,7 +40,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="jukie">
+  <a href="#" title="GinzaTech">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GinzaTech&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="GinzaTech">
@@ -70,11 +70,20 @@
 
 <br>
 
-<h2 align="center">📑 Random Quotes 📑</h2>
+## 🌐 &nbsp;Contact Me
+<p>
+  <br>
+  
+  <img hight="320" width="450" align="right" alt="GIF" src="assets/lie.gif">
+  If you want to reach out to me about anything, be it some doubt just ping me （￣︶￣）✌️.
+  
+  <a href="mailto:thanhloc150204@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/NCTL.15022004"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+  <br>
+  <br>
+<p/>
 <br>
-<!-- https://github.com/shravan20/github-readme-quotes -->
-<div align="right">
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
-
-</div>
+<br>
+<br>
+<br>
+<hr/>
