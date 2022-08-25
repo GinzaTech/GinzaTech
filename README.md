@@ -50,32 +50,12 @@
 
 <br>
 
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://facebook.com/PhamVanDien.User" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="jukie-facebook" />
-  </a>
-  <a href="https://www.youtube.com/c/UCwHbdvzzEDQ3U_6u4AdqE8w" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="jukie-youtube" />
-  </a>
-  <a href="https://instagram.com/dien_2004" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="jukie-instagram" />
-  </a>
-  <a href="mailto:phamvandienofficial@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="jukie-email" />
-  </a>
-</div>
-
-<br>
-
 ## 🌐 &nbsp;Contact Me
 <p>
   <br>
   
   <img hight="320" width="450" align="right" alt="GIF" src="assets/lie.gif">
-  If you want to reach out to me about anything, be it some doubt just ping me （￣︶￣）✌️.
+  if you need help or contact me
   
   <a href="mailto:thanhloc150204@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/NCTL.15022004"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
