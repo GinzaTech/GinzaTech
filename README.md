@@ -1,11 +1,11 @@
 <!-- GitHub Profile README for GinzaTech -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:2563EB,100:06B6D4&text=GinzaTech&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Discord%20Bot%20Builder%20%7C%20Automation%20Lover&descAlignY=58&animation=fadeIn" alt="GinzaTech banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,45:2563EB,100:06B6D4&text=GinzaTech&fontColor=FFFFFF&fontSize=62&fontAlignY=38&desc=Web%20%7C%20Mobile%20%7C%20Backend%20%7C%20Discord%20Bot&descAlignY=58&animation=fadeIn" alt="GinzaTech banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+GinzaTech;I+build+web+apps%2C+Discord+bots+and+automation+tools;Clean+code%2C+practical+systems%2C+real+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+GinzaTech;I+build+apps+that+are+useful+and+clean;Currently+focused+on+VShop" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,36 +24,47 @@
 
 ## About Me
 
-I'm a developer focused on building useful software with a practical mindset: web apps, backend services, Discord bots, automation scripts and small tools that solve real problems.
+Mình là **GinzaTech**, một developer thích xây dựng các sản phẩm thực tế: app mobile, web app, backend service, automation tool và Discord bot.
 
-```js
+Mình ưu tiên code dễ đọc, chạy ổn định, có khả năng mở rộng và giải quyết đúng vấn đề thay vì chỉ làm cho có giao diện đẹp. Hiện tại mình đang tập trung nhiều nhất vào **VShop**, còn các project như Discord bot là side project để thử nghiệm automation, realtime flow, permission system và trải nghiệm người dùng.
+
+```ts
 const ginzaTech = {
-  name: "GinzaTech",
-  focus: ["Full-stack Web", "Discord Bots", "Automation", "Backend Systems"],
-  stack: ["JavaScript", "Node.js", "React", "Vue", "Express", "MongoDB", "Firebase"],
-  currentMode: "building, debugging, optimizing",
-  motto: "Code it clean. Ship it useful.",
+  role: "Software Developer",
+  mainFocus: "VShop",
+  interests: ["Mobile App", "Web App", "Backend", "Automation", "Discord Bot"],
+  mindset: ["practical", "clean code", "debug first", "ship useful features"],
+  currentlyLearning: ["React Native", "Expo", "System Design", "Product UX"],
 };
 ```
 
 ---
 
-## Technologies And Tools
+## Current Focus
+
+| Priority | Project | Description |
+| --- | --- | --- |
+| Main | [VShop](https://github.com/GinzaTech/Vshop) | Mobile app built with Expo/React Native, focused on Valorant store/profile utilities |
+| Side | [discord-bot](https://github.com/GinzaTech/discord-bot) | Multipurpose Discord bot with music, economy, moderation and Vietnamese command flow |
+| Learning | Full-stack systems | Improving architecture, API design, performance and deployment workflow |
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,react,vue,nuxtjs,express,mongodb,firebase,html,css,bootstrap,threejs,git,github,vscode&theme=dark" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vue,nuxtjs,express,mongodb,firebase,html,css,bootstrap,threejs,git,github,vscode&theme=dark" alt="Tech stack" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=node.js&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-0F172A?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Nuxt-0F172A?style=flat-square&logo=nuxt&logoColor=00DC82" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/React_Native-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-0F172A?style=flat-square&logo=expo&logoColor=FFFFFF" alt="Expo" />
   <img src="https://img.shields.io/badge/Express-0F172A?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
   <img src="https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Firebase-0F172A?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-  <img src="https://img.shields.io/badge/ESLint-0F172A?style=flat-square&logo=eslint&logoColor=4B32C3" alt="ESLint" />
   <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
@@ -61,19 +72,22 @@ const ginzaTech = {
 
 ## What I Build
 
-| Area | What I Like Building |
+| Area | Work |
 | --- | --- |
-| Web | Dashboards, landing pages, admin panels, user-facing apps |
-| Backend | REST APIs, auth flow, database logic, service integrations |
-| Discord | Music bots, economy systems, moderation tools, slash commands |
-| Automation | Scripts, data processing, deployment helpers, workflow tools |
-| UI | Clean layouts, interactive components, readable user flows |
+| Mobile | Expo/React Native apps, auth flow, API integration, mobile UI |
+| Web | Landing pages, dashboards, admin panels, interactive UI |
+| Backend | REST APIs, database logic, service integration, background jobs |
+| Discord | Slash commands, music systems, economy game, moderation tools |
+| Automation | Helper scripts, deploy tools, data processing, workflow optimization |
 
 ---
 
-## Featured Project
+## Featured Repositories
 
 <p align="center">
+  <a href="https://github.com/GinzaTech/Vshop">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GinzaTech&repo=Vshop&theme=react&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E5E7EB&icon_color=38BDF8" alt="Pinned project: Vshop" />
+  </a>
   <a href="https://github.com/GinzaTech/discord-bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=GinzaTech&repo=discord-bot&theme=react&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=E5E7EB&icon_color=38BDF8" alt="Pinned project: discord-bot" />
   </a>
@@ -102,9 +116,9 @@ const ginzaTech = {
 
 ---
 
-## Contact Me
+## Contact
 
-If you need help, want to collaborate, or want to talk about a project, contact me here:
+Nếu bạn muốn trao đổi về project, hợp tác, hoặc cần hỗ trợ kỹ thuật, có thể liên hệ mình qua:
 
 <p>
   <a href="mailto:thanhloc150204@gmail.com">
